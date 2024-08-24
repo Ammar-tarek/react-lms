@@ -16,6 +16,7 @@
     "@mui/material": "^5.16.0",
     "@mui/styles": "^5.16.7",
     "@tailwindcss/forms": "^0.5.7",
+    "@vime/core": "^5.4.1",
     "@vime/react": "^5.4.1",
     "axios": "^1.6.7",
     "dompurify": "^3.1.4",
